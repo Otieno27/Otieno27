@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Otieno27
-- 👀 I’m interested in networking, python, json, js and sql
-- 🌱 I’m currently learning js and linux
+- 👀 I’m interested in cloud architecture, networking, bash scripting, python, json, js and sql
+- 🌱 I’m currently learning js and linux(bash scripting)
 - 💞️ I’m looking to collaborate on intermediate python projects
 - 📫 How to reach me ... mosesotieno725@gmail.com or www.linkedin.com/in/onyango-moses
 
