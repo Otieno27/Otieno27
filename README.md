@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Otieno27
-- 👀 I’m interested in cloud architecture, networking, bash scripting and software engineering
+- 👀 I’m interested in cloud architecture, computer networking, bash scripting and software engineering
 - 🌱 I’m currently learning js and linux(bash scripting)
 - 💞️ I’m looking to collaborate on intermediate python projects
 - 📫 How to reach me ... mosesotieno725@gmail.com or www.linkedin.com/in/onyango-moses
